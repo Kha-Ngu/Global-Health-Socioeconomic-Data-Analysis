@@ -12,6 +12,7 @@ A Python-based data science project analyzing the global relationship between <s
   <li><strong>Platform:</strong> Google Colab (Python)</li>
   <li><strong>Tools Used:</strong> Pandas, NumPy, Matplotlib, Seaborn</li>
   <li><strong>Dataset Source:</strong> <a href="https://www.kaggle.com/">Kaggle</a></li>
+  <li><strong>Live Notebook:</strong> <a href="https://colab.research.google.com/drive/1asivF5sphOr0HWfZQUSvhLE9Ys_bjSr5?usp=sharing">Analysis Notebook</a></li>
   <li><strong>Sample Size:</strong> 650 rows, 131 countries</li>
   <li><strong>Time Range:</strong> 2010–2015 (filtered subset)</li>
 </ul>
